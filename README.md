@@ -2,7 +2,7 @@
 =======================
 INFORMASI UMUM
 
-Nama kelompok : Cookies
+Nama kelompok : Bless Store
 Alamat Github : https://github.com/hadypriyono1/TKPPLBespoke-bug1/edit/master/README.md (scrum master 1)
 Alamat Trello : https://trello.com/creatif bless
 Judul Topik   : website penjualan baju batik indonesia untuk remaja 
@@ -40,7 +40,7 @@ Scrummaster: PATAR SIAHAAN (14.111.)
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
 
-26/5 
+26/5/2016
 Daily Scrum
 (HADY):
 1. 
@@ -48,7 +48,7 @@ Daily Scrum
 Hari ini saya melakukan konfigurasi dan "adaptasi" terhadap 
 aplikasi-aplikasi yang kelak akan sering diperlukan dalam pengerjaan 
 project ini. 
-3. Saya mendapati kendala dalam penggunaan source tree.
+3. Saya mendapati kendala dalam menggabungkan id github anggota
 
 (MEGA):
 1.
@@ -66,40 +66,40 @@ readme.md untuk mempermudah penggunaan github oleh anggota lainnya
 
 
 
-27/5 
+27/5/2016
 Daily Scrum
 (HADY):
-1. Semalam saya telah melakukan konfigurasi dan adaptasi aplikasi yang digunakan
-2. Hari ini saya mencoba melakukan beberapa konfigurasi dan testing pada Index.Jade, main.styl dan themes.styl.
-3. Saya ada kendala pada grunt server yang tiba - tiba bermasalah dan saya kurang mengerti penulisan sintax Jade.
+1. Semalam saya telah melakukan pembuatan tampilan awal website kita
+2. Hari ini saya mencoba membuat badlog kita dengan creatif
+3. hari ini saya membuat logo website kita
 
 (MEGA):
 1. Semalam saya telah mengatur dan mempersiapkan beberapa backlog yang akan dieksekusi.
-2. Hari ini saya melakukan beberapa perubahan thema pada slide utama, membuat slide khusus untuk perkenalan Properti.
-3. Saya mendapati kendala dalam hal pembuatan javascript untuk membuat interaktifitas pada slide.
+2. Hari ini saya melakukan beberapa perubahan thema website kita
+3. Saya mendapati kendala dalam instalasi node.js untuk membuat interaktifitas pada slide.
 
 (PATAR):
 1. Semalan saya telah mempelajari backlog, quick notes dan readme.md
-2. Hari ini saya mempelajari penulisan Jade dan pembuatan halaman userproperty.jade
+2. Hari ini saya mempelajari membuat badlog
 3. Saya memiliki kendala dalam hal kurangnya pengetahuan customisasi bespoke yang mengakibatkan terhambatnya proses pengeditan.
 
 (HADY):
-1. Semalam saya telah melakukan fork dan clone proyek pada windows saya.
+1. Semalam saya telah melakukan update OS Windows saya.
 2. Hari ini saya mempelajari penulisan Jade menggunakan sublime untuk proyek ini.
-3. Saya ada kendala yaitu pada source tree yang bermasalah dan tidak dapat merecognize clone dari proyek.
+3. Saya ada kendala pada saat menambhakan icon pada website kita
 
 
-28/5 
+28/5/2016
 Daily Scrum
 (HADY):
-1. Semalam saya telah mencoba melakukan beberapa konfigurasi dan testing pada Index.Jade, main.styl dan themes.styl.
+1. Semalam saya telah mencoba melakukan beberapa konfigurasi dan testing pada Index.html, main.styl dan themes.styl.
 2. Hari ini saya mencari sumber referensi mengenai keuntungan yang ditawarkan oleh bisnis WEBSITE &
    mempelajari cara membuat desain yang lebih dinamis pada bespoke. 
 3. Saya ada kendala dalam mempelajari desain pada bespoke karena referensi yang minim.
 
 (PATAR):
 1. Semalam saya telah membuat slide khusus untuk pengenalan properti dari segi pengertian dasar properti
-2. Hari ini saya mencoba dan bereksperimen dengan beberapa thema untuk diterapkan pada slide pengertian properti.
+2. Hari ini saya mencoba dan bereksperimen dengan beberapa thema untuk diterapkan pada slide pengertian website
 3. Saya mendapati kendala dalam hal mengubah tampilan  dan pemilihan warna yang baik
 
 (MEGA):
@@ -108,39 +108,371 @@ Daily Scrum
 3. Saya memiliki kendala dalam pemahaman cara kerja keseluruhan coding bespoke
 
 (PATAR):
-1. Semalam saya mempelajari penulisan Jade
-2. Hari ini saya membuat slide untuk pengenalan flatizen.
+1. Semalam saya mempelajari kembali tentang perintah dalam instalasi node.js
+2. Hari ini saya membuat bug mengenai kendala saya
 3. Saya memiliki kendala karena kesalahan merging history master.
 
 
-29/5 
+29/5/2016
 Daily Scrum
-(DEWI):
-1. Semalam saya telah mencari sumber referensi mengenai keuntungan yang ditawarkan oleh bisnis properti &
-   mempelajari cara membuat desain yang lebih dinamis pada bespoke. 
-2. Hari ini saya membuat benefit.jade, slide mengenai keuntungan bisnis property.
-3. Saya ada kendala dalam melakukan pull request.
+(HADY):
+1. Semalam saya telah mencari sumber referensi tentang website . 
+2. Hari ini saya membuat slide powerpoint untuk website kita
+3. Saya ada kendala dalam melakukan uji coba dalam membeli barang dan checkin barang
 
 (PATAR):
-1. Semalam saya telah bereksperimen dengan beberapa thema.
+1. Semalam saya telah melakukan penambahan dalam icon website.
 2. Hari ini saya kurang berpatisipasi dalam proyek dikarenakan terlibat urusan lain.
 3. Hari ini tidak mendapati kendala.
 
 (MEGA):
-1.Semalam saya mencari informasi tentang bisnis property
+1.Semalam saya mencari informasi tentang membuat website yang responsive
 2.Hari ini saya memcari cara mengoptimasi tampilan bespoke
-3.Saya mengalami kendala karena terlanjur menekan Merge pada Source tree sehingga hrs melakukan clone ulang pada windows
+3.Hari ini saya kurang berpatisipasi dalam proyek dikarenakan terlibat urusan lain.
 
 (PATAR):
-1. Semalam saya kendala karena kesalahan merging history master.
-2. Mencoba mempelajari penggunaan navigasi bar dan mencobanya
-3. Kendala saya adalah kesulitan mempelajari,mencari informasi tentang navigasi bar di bespoke
+1. Semalam saya kendala karena kesalahan dalam koneksi internet 
+2. Mencoba mempelajari penggunaan menu dari website kita
+3. Kendala saya adalah kesulitan dalam melakukan pencekan pendaftaran
 
 
-30/5 
+30/5/2016
 Daily Scrum
 (HADY):
-1. Semalam saya telah membuat benefit.jade, slide mengenai keuntungan bisnis property.
-2. Hari ini saya membuat general.jade & melakukan update terhadap benefit.jade.
-3. Saya tidak mendapati kendala hari ini.
+1. Semalam saya merubah kembali untuk tampilan header website kita
+2. Hari ini saya membuat tampilan untuk login yang sederhana
+3. Saya tidak mendapati kendala
+
+(PATAR)
+1. hari ini saya menambhakan isi konten website
+2. hari ini saya mendapati kendala pada saat instalasi node.js
+3. semalam saya mengedit baguan picture website 
+
+(MEGA)
+1. hari ini saya menambahkan file html untuk bagian checkout
+2. hari ini saya membuat isi log in namun saya mendapati kendala
+3. saya masih mendapati kendala
+
+31/5/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+
+1/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+2/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+3/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+4/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+5/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+6/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+7/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+8/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+9/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+10/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+11/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+12/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+13/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+14/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+
+15/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2.
+3.
+
+(MEGA)
+1.
+2.
+3.
+
+16/6/2016
+Daily Scrum
+(HADY):
+1. 
+2. 
+3. 
+
+(PATAR)
+1. 
+2. 
+3. hari ini saya melakukan pengecekan terhadap presentasi kita
+
+(MEGA)
+1.hari ini ada kendala dari segi perangkat saya
+2.saya mendapati kendala untuk update editor git
+3. hari ini saya menjalankan kembali website kita
+
+17/6/2016
+Daily Scrum
+(HADY):
+1. saya mendapati kendala pada saat menjalankan kembali bespoke
+2. hari ini saya menambahkan isi konten dari website kita 
+3. hari ini saya mendapati kendala pada bagian pembelian website kita
+
+(PATAR)
+1. hari ini saya melakukan uji coba pada website
+2.hari ini saya melakukan penggantian password email
+3.saya mendapati kendala pada password login email saya
+
+(MEGA)
+1.saya mencoba revisi kemabali isi konten website
+2. saya mendapati kendala masalah laptop saya
+3.hari ini saya melihat dan melakukan uji coba website kita
+
+
+
 
